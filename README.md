@@ -11,7 +11,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 3. 
 
 # Large Language Models
-1. Advanced LLMs by Tanmoy Chakraborty (IIT Delhi)
+1. Advanced LLMs by Tanmoy Chakraborty (IIT Delhi) \\
    Link: https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=1&t=385s
 2. 
 
