@@ -5,13 +5,14 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 1. Deep Learning Mathematics and Theory \
    YouTube Link:https://www.youtube.com/watch?v=fqlKKj_Rj1M&list=PL_0D8aefOEP9fr8vA_4WvQvpHZcuHGJ6m
 2. 
+---
 # ⚙️ Machine Learning
 1. 100 Days of Machine Learning by CampusX \
    Link: https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 2. Machine Learning: Teach by Doing by Vizuara (By Raj Abhijit Dandekar) \
    Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
 3. 
-
+---
 # 🤖 Deep Learning
 1. 100 Days of Deep Learning by CampusX \
    YouTube Link: https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
@@ -20,6 +21,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 3. Neural Network from Scratch by Vizuara (By Raj Abhijit Dandekar) \
    YouTube Link: https://www.youtube.com/watch?v=zrKpz9-AZ_E&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
 5. 
+---
 # 🖼️👁️ Computer Vision
 1. Computer Vision from Scratch by Vizuara (By Sreedath Panat) \
    YouTube Link: https://www.youtube.com/watch?v=Tu11SMJGGIA&list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az
@@ -27,7 +29,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
 3. Com
 4. dd
-
+---
 # 🧠 Large Language Models
 1. Large Language Models by Tanmoy Chakraborty (IIT Delhi) \
    YouTube Link: https://www.youtube.com/watch?v=zMn37YxPD6I&list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-
@@ -40,6 +42,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 5. LLM Course \
    Roadmaps and notebooks that teach you how to design, build, and deploy applications with LLMs \
    Github Link: https://github.com/mlabonne/llm-course
+---
 # 🚀 AI Agents
 1. AI Agents for Beginners \
    Github Link: https://github.com/microsoft/ai-agents-for-beginners
@@ -48,6 +51,5 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Github Link: https://github.com/coleam00/ai-agents-masterclass
 4. GenAI Agents \
    Github Link: https://github.com/NirDiamant/GenAI_Agents
-
-
+---
 # Vision Language Models
