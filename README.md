@@ -3,16 +3,19 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 
 # Mathamatics used in Machine and Deep Learning
 1. Deep Learning Mathematics and Theory \
-   YouTube Link:https://www.youtube.com/watch?v=fqlKKj_Rj1M&list=PL_0D8aefOEP9fr8vA_4WvQvpHZcuHGJ6m
-2. 
+   YouTube Link: https://www.youtube.com/watch?v=fqlKKj_Rj1M&list=PL_0D8aefOEP9fr8vA_4WvQvpHZcuHGJ6m
+2. Essence of linear algebra \
+   YouTube Link: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+4. Linear Algebra by Gilbert Strang \
+   YouTube Link: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C&index=1
 ---
 # ⚙️ Machine Learning
 1. 100 Days of Machine Learning by CampusX \
-   Link: https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
+   YouTube Link: https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 2. Machine Learning: Teach by Doing by Vizuara (By Raj Abhijit Dandekar) \
-   Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
+   YouTube Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
 3. Stanford CS229: Machine Learning Course \
-   Youtube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+   YouTube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 ---
 # 🤖 Deep Learning
 1. 100 Days of Deep Learning by CampusX \
@@ -44,7 +47,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Roadmaps and notebooks that teach you how to design, build, and deploy applications with LLMs \
    Github Link: https://github.com/mlabonne/llm-course
 6. Stanford CS336 Language Modeling from Scratch | Spring 2025 \
-   Youtube Link: https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
+   YouTube Link: https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
 ---
 # 🚀 AI Agents
 1. AI Agents for Beginners \
