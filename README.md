@@ -42,6 +42,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 5. LLM Course \
    Roadmaps and notebooks that teach you how to design, build, and deploy applications with LLMs \
    Github Link: https://github.com/mlabonne/llm-course
+6. Stanford CS336 Language Modeling from Scratch | Spring 2025 \
+   Youtube Link: https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
 ---
 # 🚀 AI Agents
 1. AI Agents for Beginners \
@@ -52,4 +54,5 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 4. GenAI Agents \
    Github Link: https://github.com/NirDiamant/GenAI_Agents
 ---
-# Vision Language Models
+# 👁️ Vision Language Models
+1. 
