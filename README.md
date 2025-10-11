@@ -11,7 +11,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Link: https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 2. Machine Learning: Teach by Doing by Vizuara (By Raj Abhijit Dandekar) \
    Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
-3. 
+3. Stanford CS229: Machine Learning Course \
+   Youtube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 ---
 # 🤖 Deep Learning
 1. 100 Days of Deep Learning by CampusX \
