@@ -1,4 +1,4 @@
-# 📚🌐 Resources
+# 📚🌐 Resources for ML, DL, CV, and Large Language Models
 A curated collection of valuable resources on Deep Learning, Machine Learning, Computer Vision, Large Language Models (LLMs), and Vision-Language Models (VLMs)
 
 # Mathamatics used in Machine and Deep Learning
@@ -24,15 +24,12 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=1&t=385s
 3. Neural Network from Scratch by Vizuara (By Raj Abhijit Dandekar) \
    YouTube Link: https://www.youtube.com/watch?v=zrKpz9-AZ_E&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
-5. 
 ---
 # 🖼️👁️ Computer Vision
 1. Computer Vision from Scratch by Vizuara (By Sreedath Panat) \
    YouTube Link: https://www.youtube.com/watch?v=Tu11SMJGGIA&list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az
 2. Deep Learning for Computer Vision by Stanford (Stanford CS231N | Spring 2025 ) \
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
-3. Com
-4. dd
 ---
 # 🧠 Large Language Models
 1. Large Language Models by Tanmoy Chakraborty (IIT Delhi) \
