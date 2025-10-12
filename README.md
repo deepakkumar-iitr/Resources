@@ -55,9 +55,9 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
 
 ### 📚 Books
-Hands-On Large Language Models Language Understanding and Generation
-By Jay Alammar, Maarten Grootendorst 
-Link: https://www.google.co.in/books/edition/Hands_On_Large_Language_Models/hE8hEQAAQBAJ?hl=en&gbpv=1&printsec=frontcover
+1. Hands-On Large Language Models Language Understanding and Generation \
+   By Jay Alammar, Maarten Grootendorst \
+   Link: https://www.google.co.in/books/edition/Hands_On_Large_Language_Models/hE8hEQAAQBAJ?hl=en&gbpv=1&printsec=frontcover
 ---
 # 🚀 AI Agents
 1. AI Agents for Beginners \
