@@ -19,8 +19,9 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
 3. Stanford CS229: Machine Learning Course \
    YouTube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
-## 📚 Books
-
+### 📚 Books
+1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+   By Aurélien Géron
 ---
 # 🤖 Deep Learning
 1. 100 Days of Deep Learning by CampusX \
