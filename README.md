@@ -2,13 +2,17 @@
 A curated collection of valuable resources on Deep Learning, Machine Learning, Computer Vision, Large Language Models (LLMs), and Vision-Language Models (VLMs)
 
 # Mathamatics used in Machine and Deep Learning
-1. Deep Learning Mathematics and Theory \
+1. Mathematical Foundations for Machine Learning (NPTEL-Indian Institute of Science, Bengaluru By Dr. Ashok Rao) \
+   YouTube Link: https://www.youtube.com/watch?v=6QfLOGfqOas&list=PLgMDNELGJ1CYPJS6m_ygxb4KtHYxh1HjR&index=71
+2. Linear Algebra Through Geometry (NPTEL-Indian Institute of Science, Bengaluru By Dr. Ashok Rao) \
+   YouTube Link: https://www.youtube.com/watch?v=H22Xdbf2Vrc&list=PLgMDNELGJ1CaTrBVbwaHoHYlTbyeV-q5c&index=63
+4. Deep Learning Mathematics and Theory \
    YouTube Link: https://www.youtube.com/watch?v=fqlKKj_Rj1M&list=PL_0D8aefOEP9fr8vA_4WvQvpHZcuHGJ6m
-2. Essence of linear algebra \
+5. Essence of linear algebra \
    YouTube Link: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-4. Linear Algebra by Gilbert Strang \
+6. Linear Algebra by Gilbert Strang \
    YouTube Link: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C&index=1
-5. Khan Academy NCERT Math Class 12 \
+7. Khan Academy NCERT Math Class 12 \
    Web Link: https://www.khanacademy.org/math/ncert-class-12
 
 ### 📚 Books
