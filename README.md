@@ -60,6 +60,9 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 2. Deep Learning for Computer Vision by Stanford (Stanford CS231N | Spring 2025 ) \
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
 ## 📚 Books
+1. Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images
+   By Valliappa Lakshmanan, Martin Gorner, Ryan Gillard
+   Amazon Link: https://www.amazon.in/Practical-Machine-Learning-Computer-Vision/dp/1098102363
 ---
 # 🧠 Large Language Models
 1. Large Language Models by Tanmoy Chakraborty (IIT Delhi) \
