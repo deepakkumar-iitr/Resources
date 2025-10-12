@@ -34,6 +34,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 4. AI by Hands by Tom Yeh\
    LinkedIn Link: https://www.linkedin.com/in/tom-yeh/
+5. Introduction to Machine Learning By Prof. Balaraman Ravindran, IIT Madras \
+   YouTube Link: https://www.youtube.com/playlist?list=PLVedk3nRvxDScQQpgMS6PBqV2lEeXJSLj
 ### 📚 Books
 1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
    By Aurélien Géron
@@ -46,6 +48,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=1&t=385s
 3. Neural Network from Scratch by Vizuara (By Raj Abhijit Dandekar) \
    YouTube Link: https://www.youtube.com/watch?v=zrKpz9-AZ_E&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
+4. Deep Learning By Mitesh M. Khapra, IIT Madras \
+   YoyTube Link: https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT
 
 **📚 Books**
 1. Deep Learning from Scratch: Building with Python from First Principles \
@@ -78,6 +82,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Github Link: https://github.com/mlabonne/llm-course
 6. Stanford CS336 Language Modeling from Scratch | Spring 2025 \
    YouTube Link: https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
+7. Introduction to large language models By Mitesh M. Khapra, IIT Madras \
+   YouTube Link: https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo
 
 ### 📚 Books
 1. Hands-On Large Language Models Language Understanding and Generation \
@@ -95,5 +101,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 5. Agentic AI by Andrew Ng \
    Web Link: https://www.deeplearning.ai/courses/agentic-ai/
 ---
+# Reinforcement Learning
+1. Introduction to Reinforcement Learning (RL) By Prof. Balaraman Ravindran, IIT Madras
+   YouTube Link: https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
 # 👁️ Vision Language Models
 1. 
