@@ -8,6 +8,9 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 4. Linear Algebra by Gilbert Strang \
    YouTube Link: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C&index=1
+
+## Books
+
 ---
 # ⚙️ Machine Learning
 1. 100 Days of Machine Learning by CampusX \
@@ -16,6 +19,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
 3. Stanford CS229: Machine Learning Course \
    YouTube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+## Books
+
 ---
 # 🤖 Deep Learning
 1. 100 Days of Deep Learning by CampusX \
@@ -24,12 +29,15 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=1&t=385s
 3. Neural Network from Scratch by Vizuara (By Raj Abhijit Dandekar) \
    YouTube Link: https://www.youtube.com/watch?v=zrKpz9-AZ_E&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
+
+**Books**
 ---
 # 🖼️👁️ Computer Vision
 1. Computer Vision from Scratch by Vizuara (By Sreedath Panat) \
    YouTube Link: https://www.youtube.com/watch?v=Tu11SMJGGIA&list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az
 2. Deep Learning for Computer Vision by Stanford (Stanford CS231N | Spring 2025 ) \
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
+## Books
 ---
 # 🧠 Large Language Models
 1. Large Language Models by Tanmoy Chakraborty (IIT Delhi) \
@@ -45,6 +53,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Github Link: https://github.com/mlabonne/llm-course
 6. Stanford CS336 Language Modeling from Scratch | Spring 2025 \
    YouTube Link: https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
+
+## Books
 ---
 # 🚀 AI Agents
 1. AI Agents for Beginners \
@@ -54,6 +64,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Github Link: https://github.com/coleam00/ai-agents-masterclass
 4. GenAI Agents \
    Github Link: https://github.com/NirDiamant/GenAI_Agents
+5. Agentic AI by Andrew Ng \
+   Web Link: https://www.deeplearning.ai/courses/agentic-ai/
 ---
 # 👁️ Vision Language Models
 1. 
