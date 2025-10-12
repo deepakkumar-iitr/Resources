@@ -101,8 +101,10 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 5. Agentic AI by Andrew Ng \
    Web Link: https://www.deeplearning.ai/courses/agentic-ai/
 ---
-# Reinforcement Learning
+# 🕹️🔁 Reinforcement Learning
 1. Introduction to Reinforcement Learning (RL) By Prof. Balaraman Ravindran, IIT Madras \
    YouTube Link: https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
+---
+
 # 👁️ Vision Language Models
 1. 
