@@ -20,7 +20,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    By Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 2. An Introduction to Statistical Learning \
    By Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-3. Data Science Glossary on Kaggle
+3. Data Science Glossary on Kaggle \
    Kaggle Link: https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle
 4. O'reily Website for book search \
    Web Link: https://www.oreilly.com/search/?q=deep%20learning&rows=10
@@ -37,7 +37,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 5. Introduction to Machine Learning By Prof. Balaraman Ravindran, IIT Madras \
    YouTube Link: https://www.youtube.com/playlist?list=PLVedk3nRvxDScQQpgMS6PBqV2lEeXJSLj
 ### 📚 Books
-1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems \
    By Aurélien Géron
 2. The Hundred Page Machine Learning Book by Andriy Burkov
 ---
@@ -64,8 +64,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 2. Deep Learning for Computer Vision by Stanford (Stanford CS231N | Spring 2025 ) \
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
 ## 📚 Books
-1. Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images
-   By Valliappa Lakshmanan, Martin Gorner, Ryan Gillard
+1. Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images \
+   By Valliappa Lakshmanan, Martin Gorner, Ryan Gillard \
    Amazon Link: https://www.amazon.in/Practical-Machine-Learning-Computer-Vision/dp/1098102363
 ---
 # 🧠 Large Language Models
@@ -102,7 +102,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Web Link: https://www.deeplearning.ai/courses/agentic-ai/
 ---
 # Reinforcement Learning
-1. Introduction to Reinforcement Learning (RL) By Prof. Balaraman Ravindran, IIT Madras
+1. Introduction to Reinforcement Learning (RL) By Prof. Balaraman Ravindran, IIT Madras \
    YouTube Link: https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
 # 👁️ Vision Language Models
 1. 
