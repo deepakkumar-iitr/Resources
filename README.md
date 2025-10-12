@@ -8,9 +8,18 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 4. Linear Algebra by Gilbert Strang \
    YouTube Link: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C&index=1
+5. Khan Academy NCERT Math Class 12 \
+   Web Link: https://www.khanacademy.org/math/ncert-class-12
 
-## 📚 Books
-
+### 📚 Books
+1. The Elements of Statistical Learning Data Mining, Inference, and Prediction \
+   By Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+2. An Introduction to Statistical Learning \
+   By Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+3. Data Science Glossary on Kaggle
+   Kaggle Link: https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle
+4. O'reily Website for book search \
+   Web Link: https://www.oreilly.com/search/?q=deep%20learning&rows=10
 ---
 # ⚙️ Machine Learning
 1. 100 Days of Machine Learning by CampusX \
@@ -19,9 +28,12 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
 3. Stanford CS229: Machine Learning Course \
    YouTube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+4. AI by Hands by Tom Yeh\
+   LinkedIn Link: https://www.linkedin.com/in/tom-yeh/
 ### 📚 Books
 1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
    By Aurélien Géron
+2. The Hundred Page Machine Learning Book by Andriy Burkov
 ---
 # 🤖 Deep Learning
 1. 100 Days of Deep Learning by CampusX \
@@ -32,6 +44,11 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=zrKpz9-AZ_E&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
 
 **📚 Books**
+1. Deep Learning from Scratch: Building with Python from First Principles \
+   By Seth Weidman
+2. Deep Learning By Aaron Courville, Ian Goodfellow, and Yoshua Bengio 
+3. Deep Learning with Python By François Chollet
+
 ---
 # 🖼️👁️ Computer Vision
 1. Computer Vision from Scratch by Vizuara (By Sreedath Panat) \
