@@ -9,7 +9,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 4. Linear Algebra by Gilbert Strang \
    YouTube Link: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C&index=1
 
-## Books
+## 📚 Books
 
 ---
 # ⚙️ Machine Learning
@@ -19,7 +19,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/watch?v=ngiICHD5dVc&list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
 3. Stanford CS229: Machine Learning Course \
    YouTube Link: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
-## Books
+## 📚 Books
 
 ---
 # 🤖 Deep Learning
@@ -30,14 +30,14 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 3. Neural Network from Scratch by Vizuara (By Raj Abhijit Dandekar) \
    YouTube Link: https://www.youtube.com/watch?v=zrKpz9-AZ_E&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
 
-**Books**
+**📚 Books**
 ---
 # 🖼️👁️ Computer Vision
 1. Computer Vision from Scratch by Vizuara (By Sreedath Panat) \
    YouTube Link: https://www.youtube.com/watch?v=Tu11SMJGGIA&list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az
 2. Deep Learning for Computer Vision by Stanford (Stanford CS231N | Spring 2025 ) \
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
-## Books
+## 📚 Books
 ---
 # 🧠 Large Language Models
 1. Large Language Models by Tanmoy Chakraborty (IIT Delhi) \
@@ -54,7 +54,10 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 6. Stanford CS336 Language Modeling from Scratch | Spring 2025 \
    YouTube Link: https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
 
-## Books
+### 📚 Books
+Hands-On Large Language Models Language Understanding and Generation
+By Jay Alammar, Maarten Grootendorst 
+Link: https://www.google.co.in/books/edition/Hands_On_Large_Language_Models/hE8hEQAAQBAJ?hl=en&gbpv=1&printsec=frontcover
 ---
 # 🚀 AI Agents
 1. AI Agents for Beginners \
