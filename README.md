@@ -121,17 +121,21 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Artificial Intelligence + Machine Learning + Computer Vision
 3. Kaiming He--https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en \
    Computer Vision + Machine Learning
-4. Yann LeCun-- https://scholar.google.com/citations?user=WLN3QrAAAAAJ \
+4. Ilya Sutskever -- https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en \
+   Machine Learning + Neural Networks + Artificial Intelligence + Deep Learning
+5. Alex Krizhevsky -- https://scholar.google.com/citations?user=xegzhJcAAAAJ&hl=en \
+   Machine Learning
+6. Yann LeCun-- https://scholar.google.com/citations?user=WLN3QrAAAAAJ \
    AI + Machine learning + Computer vision + Image compression
-5. Andrew Ng -- https://scholar.google.com/citations?user=mG4imMEAAAAJ \
+7. Andrew Ng -- https://scholar.google.com/citations?user=mG4imMEAAAAJ \
    ML systems + CV + scalable education
-6. Ashish Vaswani -- https://scholar.google.com/citations?user=oR9sCGYAAAAJ \
+8. Ashish Vaswani -- https://scholar.google.com/citations?user=oR9sCGYAAAAJ \
    Transformers & attention
-7. Yoshua Bengio -- https://scholar.google.com/citations?user=kukA0LcAAAAJ \
+9. Yoshua Bengio -- https://scholar.google.com/citations?user=kukA0LcAAAAJ \
    Generative Adversarial Networks
-8. Christopher D Manning -- https://scholar.google.com/citations?user=1zmDOdwAAAAJ \
+10. Christopher D Manning -- https://scholar.google.com/citations?user=1zmDOdwAAAAJ \
     Natural Language Processing + Computational Linguistics + Deep Learning
-9. Percy Liang -- https://scholar.google.com/citations?user=pouyVyUAAAAJ \
+11. Percy Liang -- https://scholar.google.com/citations?user=pouyVyUAAAAJ \
    Machine learning + Natural language processing
 
 ---
