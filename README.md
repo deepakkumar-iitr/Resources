@@ -68,6 +68,11 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    By Valliappa Lakshmanan, Martin Gorner, Ryan Gillard \
    Amazon Link: https://www.amazon.in/Practical-Machine-Learning-Computer-Vision/dp/1098102363
 ---
+# Generative AI
+1. Mathematical Foundations of Generative AI \
+   YouTube Link: https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu
+
+---
 # 🧠 Large Language Models
 1. Large Language Models by Tanmoy Chakraborty (IIT Delhi) \
    YouTube Link: https://www.youtube.com/watch?v=zMn37YxPD6I&list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-
