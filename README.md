@@ -68,7 +68,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    By Valliappa Lakshmanan, Martin Gorner, Ryan Gillard \
    Amazon Link: https://www.amazon.in/Practical-Machine-Learning-Computer-Vision/dp/1098102363
 ---
-# Generative AI
+# 🎨🪄✨ Generative AI
 1. Mathematical Foundations of Generative AI \
    YouTube Link: https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu
 
@@ -114,7 +114,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 # 👁️ Vision Language Models
 1. 
 ---
-# Google Scholar Profiles to Follow in AI/ML/DL/CV/LLMs Fields
+# 🔍🎓 Google Scholar Profiles to Follow in AI/ML/DL/CV/LLMs Fields
 1. Geoffrey Hinton: https://scholar.google.com/citations?user=JicYPdAAAAAJ \
    Foundational DL + representation learning + machine learning
 2. Li Fei-Fei: https://scholar.google.com/citations?user=rDfyQnIAAAAJ \
