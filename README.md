@@ -38,6 +38,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/playlist?list=PLVedk3nRvxDScQQpgMS6PBqV2lEeXJSLj
 6. Machine Learning with Graphs (CS224W) By Stanford \
    YouTube Link: https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+7. Probabilistic Machine Learning 2025 - Philipp Hennig \
+   YouTube Link: https://www.youtube.com/playlist?list=PL05umP7R6ij0hPfU7Yuz8J9WXjlb3MFjm
 ### 📚 Books
 1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems \
    By Aurélien Géron
