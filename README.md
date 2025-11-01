@@ -116,7 +116,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 ---
 
 # 👁️ Vision Language Models
-1. 
+1. Vision Language Model from scratch in PyTorch (By Umar Jamil)
+   YouTube Link: https://www.youtube.com/watch?v=vAmKB7iPkWw
 ---
 # 🔍🎓 Google Scholar Profiles to Follow in AI/ML/DL/CV/LLMs Fields
 1. Geoffrey Hinton: https://scholar.google.com/citations?user=JicYPdAAAAAJ \
