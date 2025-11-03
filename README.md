@@ -109,6 +109,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Github Link: https://github.com/NirDiamant/GenAI_Agents
 5. Agentic AI by Andrew Ng \
    Web Link: https://www.deeplearning.ai/courses/agentic-ai/
+6. Agentic AI by Stanford Online \
+   YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rMC33Ucp4aumGNn8SpjEork
 ---
 # 🕹️🔁 Reinforcement Learning
 1. Introduction to Reinforcement Learning (RL) By Prof. Balaraman Ravindran, IIT Madras \
