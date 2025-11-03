@@ -111,6 +111,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Web Link: https://www.deeplearning.ai/courses/agentic-ai/
 6. Agentic AI by Stanford Online \
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rMC33Ucp4aumGNn8SpjEork
+7. Agentic AI using LangGraph By CampusX
+   YouTube Link: https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL
 ---
 # 🕹️🔁 Reinforcement Learning
 1. Introduction to Reinforcement Learning (RL) By Prof. Balaraman Ravindran, IIT Madras \
