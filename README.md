@@ -75,6 +75,8 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 # 🎨🪄✨ Generative AI
 1. Mathematical Foundations of Generative AI \
    YouTube Link: https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu
+2. Gen AI Cheat Sheets
+   Medium Link: https://medium.com/@anushka.datascoop/101-gen-ai-cheat-sheets-831e17f1e6a7
 
 ---
 # 🧠 Large Language Models
