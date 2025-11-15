@@ -101,7 +101,7 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    By Jay Alammar, Maarten Grootendorst \
    Link: https://www.google.co.in/books/edition/Hands_On_Large_Language_Models/hE8hEQAAQBAJ?hl=en&gbpv=1&printsec=frontcover
 ---
-# 🚀 AI Agents
+# 🚀 AI Agents (Agentic AI)
 1. AI Agents for Beginners \
    Github Link: https://github.com/microsoft/ai-agents-for-beginners
 3. AI Agents Masterclass \
@@ -115,6 +115,14 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    YouTube Link: https://www.youtube.com/playlist?list=PLoROMvodv4rMC33Ucp4aumGNn8SpjEork
 7. Agentic AI using LangGraph By CampusX \
    YouTube Link: https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL
+
+### 📚 Books
+1. AI Agents: The Definitive Guide - Nicole Koenigstein \
+   Link: https://www.oreilly.com/library/view/ai-agents-the/0642572247775/
+2. Building Applications with AI Agents - Michael Albada \
+   Link: https://www.oreilly.com/library/view/building-applications-with/9781098176495/
+3. AI Agents with MCP - Kyle Stratis \
+   Link: https://www.oreilly.com/library/view/ai-agents-with/9798341639546/
 ---
 # 🕹️🔁 Reinforcement Learning
 1. Introduction to Reinforcement Learning (RL) By Prof. Balaraman Ravindran, IIT Madras \
