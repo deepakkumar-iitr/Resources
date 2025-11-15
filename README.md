@@ -100,6 +100,10 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 1. Hands-On Large Language Models Language Understanding and Generation \
    By Jay Alammar, Maarten Grootendorst \
    Link: https://www.google.co.in/books/edition/Hands_On_Large_Language_Models/hE8hEQAAQBAJ?hl=en&gbpv=1&printsec=frontcover
+
+### Articles
+1. The Big LLM Architecture Comparison by Sebastian Raschka\
+   Link: https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 ---
 # 🚀 AI Agents (Agentic AI)
 1. AI Agents for Beginners \
