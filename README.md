@@ -127,6 +127,10 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
 2. The Training Strategies Behind Vision Language Models (VLMs) \
    Link: https://farukalamai.substack.com/p/fdb
 ---
+# Geometric Deep Learning
+1. Mathematics behind geometric deep learning  \
+   Link: https://www.linkedin.com/posts/patricknicolas_math-of-geometric-deep-learning-made-simple-activity-7394834421436047360-jj-7/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAAn0G1oBRqqvHKv0I0-wGSBkCsVyqjarOqI&utm_campaign=whatsapp
+---
 # 🔍🎓 Google Scholar Profiles to Follow in AI/ML/DL/CV/LLMs Fields
 1. Geoffrey Hinton: https://scholar.google.com/citations?user=JicYPdAAAAAJ \
    Foundational DL + representation learning + machine learning
