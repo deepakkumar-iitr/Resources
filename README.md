@@ -168,3 +168,21 @@ A curated collection of valuable resources on Deep Learning, Machine Learning, C
    Machine learning + Natural language processing
 
 ---
+# 🔍🔥 Top 5 research papers every AI/ML researcher follow
+1. AlexNet (2012) – ImageNet Classification with Deep CNNs \
+   Brought neural networks back to life and ignited the deep learning revolution. \
+   Link: https://fennel1.github.io/paper/ALexNet.pdf
+2. ResNet (2015) – Deep Residual Learning \
+   Introduced skip connections, enabled extremely deep networks. \
+   Paper Link: https://arxiv.org/pdf/1512.03385
+3. U-Net (2015) – Biomedical Image Segmentation \
+   The go to architecture for image segmentation tasks. \
+   Paper Link: https://arxiv.org/abs/1505.04597
+4. Transformer (2017) – Attention Is All You Need \
+   The backbone of modern LLMs — attention mechanism changes everything. \
+   Paper Link: https://arxiv.org/abs/1706.03762
+5. Vision Transformer (ViT) (2020) – An Image is Worth 16×16 Words \
+   Brought Transformers to vision and matched CNN performance at scale. \
+   Paper Link: https://arxiv.org/abs/2010.11929
+---
+
